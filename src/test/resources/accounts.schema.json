@@ -3,7 +3,7 @@
   "type": "array",
   "default": [],
   "items": {
-    "type": "integer",
+    "type": "string",
     "additionalProperties": false,
     "required": [
       "id",
