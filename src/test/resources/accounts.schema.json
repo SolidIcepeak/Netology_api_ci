@@ -3,7 +3,7 @@
   "type": "array",
   "default": [],
   "items": {
-    "type": "string",
+    "type": "object",
     "additionalProperties": false,
     "required": [
       "id",
